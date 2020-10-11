@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.rider/
+.idea/
+/.vs/Eventify/DesignTimeBuild/.dtbcache.v2
+/.vs/Eventify/v16/TestStore/0
+/.vs/Eventify/v16
