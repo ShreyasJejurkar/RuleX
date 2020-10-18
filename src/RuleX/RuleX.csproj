@@ -11,10 +11,11 @@
     <RepositoryUrl>https://github.com/MCCshreyas/RuleX</RepositoryUrl>
     <RepositoryType>public</RepositoryType>
     <PackageTags>rules rule-engine rule-design-pattern csharp dotnet business-rules business-rules-engine</PackageTags>
-    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageReleaseNotes>First Patch release</PackageReleaseNotes>
     <SignAssembly>false</SignAssembly>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
