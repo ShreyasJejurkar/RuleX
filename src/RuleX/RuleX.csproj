@@ -13,6 +13,7 @@
     <PackageTags>rules rule-engine rule-design-pattern csharp dotnet business-rules business-rules-engine</PackageTags>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <SignAssembly>false</SignAssembly>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
   </PropertyGroup>
 
